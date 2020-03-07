@@ -1,10 +1,11 @@
-public class first
+public class first1
 {
 	public static void main(String args[])
 	{
 		int a=10;
 		int b=20;
 		int c=a+b;
-		System.out.println(c);//comment added from repo
+		System.out.println(c);
+		ahahah//comment added from repo
 	}
 }
